@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="ASIA" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18113602/kapamilya-channel-logo.png" tvg-url="" group-title="",KAPAMILYA CHANNEL
-http://fp.visualsec.net:8443/live/S54PToHecia6KS6CjvuJmA/1630952726/11.m3u8
+fp.visualsec.net:8443/live/GlP0CEEDhTjI1TSNgFenQg/1631107332/11.m3u8
 
 #EXTINF:-1 tvg-chno="033" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Cine_mo.png/" group-title="Movies",CineMo
 http://qqtv.nl:8080/65055/65055/273501
